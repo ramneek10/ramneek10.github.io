@@ -2,5 +2,6 @@
 layout: default
 modal-id: 1
 img: project1.jpg
-alt: image-alt
+img2: project1.pdf
+alt: project1.pdf
 ---
